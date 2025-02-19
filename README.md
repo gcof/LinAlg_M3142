@@ -11,8 +11,7 @@
 - **[Lectures/](Semester%201/Lectures/)** — Конспекты лекций
 - **[Practices/](Semester%201/Practices/)** — Домашние задания и задания на практиках
 - **[Previous_year/](Semester%201/Previous_year/)** — Материалы курса за прошлый год
-- **[KTAI - Syllabus - 1.pdf](Semester%201/KTAI%20-%20Syllabus%20-%201.pdf)** — Учебный план 1 семестра
-
+- 
 ### Semester 2
 - **[Lectures/](Semester%202/Lectures/)** — Лекции второго семестра
 - **[Practices/](Semester%202/Practices/)** — Практики второго семестра
