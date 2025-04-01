@@ -8,13 +8,13 @@
 ## Структура репозитория
 
 ### Semester 1
-- **[Lectures](Semester%201/Lectures/)** — Конспекты лекций
-- **[Practices](Semester%201/Practices/)** — Домашние задания и задания на практиках
+- **[Lectures](Semester%201/Lectures/)** — Конспекты лекций первого семестра
+- **[Practices](Semester%201/Practices/)** — Домашние задания и задания на практиках первого семестра
 - **[Previous_year](Semester%201/Previous_year/)** — Материалы курса за прошлый год
 
 ### Semester 2
-- **[Lectures](Semester%202/Lectures/)** — Лекции второго семестра
-- **[Practices](Semester%202/Practices/)** — Практики второго семестра
+- **[Lectures](Semester%202/Lectures/)** — Конспекты лекций второго семестра
+- **[Practices](Semester%202/Practices/)** — Домашние задания и задания на практиках второго семестра
 
 ## Контакты
 Если есть что добавить — пишите  
